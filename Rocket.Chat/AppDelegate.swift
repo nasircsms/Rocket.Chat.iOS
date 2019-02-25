@@ -38,7 +38,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
 
         initNotificationWindow()
-
+        // Saving this change
         return true
     }
 
